@@ -1,4 +1,4 @@
-# My-Gym: an implementation of sparse rewars environements
+# My-Gym: an implementation of sparse rewards environements
 
 This code is used by the Diffusion-Based Approximate Value Function [implementation](https://github.com/mklissa/DAVF).
 To install the available environments, simply proceed with:
