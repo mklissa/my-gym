@@ -7,7 +7,7 @@ To install the available environments, simply proceed with:
 pip install -e .
 ```
 
-To use those environments in your code, you need to write these lines:
+To use the available environments in your code, you need to write these lines:
 
 ```python
 import gym
