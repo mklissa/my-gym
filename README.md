@@ -7,7 +7,7 @@ To install the available environments, simply proceed with:
 pip install -e .
 ```
 
-To use the available environments in your code, you need to write these lines:
+You will also need to install the mujoco-py binaries and license key, as indicated [here](https://github.com/openai/mujoco-py/tree/0.5). To use the available environments in your code, you need to write these lines:
 
 ```python
 import gym
